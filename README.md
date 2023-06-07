@@ -2,9 +2,9 @@
 
 ## Objetivo del módulo: Aprender del proceso de **E**xtracción **T**ransofrmación y Carga (ETL) 📥 🔄 📤 ☁
 
-## priorizando el cómo y de donde podemos conseguir datos para nuestros proyectos
+## Priorizando el cómo y de donde podemos conseguir datos para nuestros proyectos
 
-### Sesión 3 - More of NoSQL DB con DODB + APIS: 
+### Sesión 3 - ➕ More NoSQL DB con DODB usando Mongo 🍂 + APIS: 
 
 [Colab de Mongo](https://colab.research.google.com/drive/1hkGNb8JxdX8pjS-HBzir-ijzZ_UFPko8)
 
