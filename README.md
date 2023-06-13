@@ -15,7 +15,7 @@
 
 
 
-# Sesión 2 Bases de Datos No relacionales (NoSQL) 
+### Sesión 2 Bases de Datos No relacionales (NoSQL) 
 
 [Presentación de BD No relacionales](https://drive.google.com/file/d/1z-WnHKnKzHwjsZFd0PsrBtg7foh-Ghdu/view?usp=drive_link)
 
@@ -34,3 +34,14 @@
 [Colab de APIs](https://drive.google.com/file/d/1NmHhvje4UrZ4XzMo6mBykSW3MkJ1hHgS/view?usp=drive_link)
 
 [Referencia de Antiguo Challenge de Twitter](https://drive.google.com/file/d/1NmHhvje4UrZ4XzMo6mBykSW3MkJ1hHgS/view?usp=drive_link)
+
+
+### Sesión 5 - Web Scrapping
+
+[Presentación Web Srapping](https://docs.google.com/presentation/d/1MwcGsFKWpZcx2WgkNgFbatRLt0fa4bB_pW17D2fSnN4/edit?usp=sharing)
+
+[Descarga Google Chrome](https://www.google.com/chrome/?brand=BNSD&gclsrc=ds&gclsrc=ds)
+
+[Descarga Driver para Chrome](https://chromedriver.chromium.org/downloads)
+
+[Descarga Visual Studio](https://code.visualstudio.com/)
