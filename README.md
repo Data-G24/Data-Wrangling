@@ -45,3 +45,13 @@
 [Descarga Driver para Chrome](https://chromedriver.chromium.org/downloads)
 
 [Descarga Visual Studio](https://code.visualstudio.com/)
+
+
+### Sesión 7 - Crea tu propia API
+
+[Código base](https://drive.google.com/file/d/1VgXN5ijhzEew0BLodJWSNxPYExWR5VpJ/view?usp=sharing)
+
+[Python Everywhere apra Deployar API](https://www.pythonanywhere.com/)
+
+[Software para hacer pruebas de peticiones](https://www.postman.com/downloads/)
+
