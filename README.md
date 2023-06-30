@@ -55,3 +55,15 @@
 
 [Software para hacer pruebas de peticiones](https://www.postman.com/downloads/)
 
+
+### Sesión 8 - Vista de ave 🦅 a Apache Spark
+
+[Presentación](https://docs.google.com/presentation/d/1IExrkHv-EncKUsVRfWotzMcQngko2TVc/edit?usp=sharing&ouid=100840405244804940246&rtpof=true&sd=true)
+
+[Colab Spark](https://drive.google.com/file/d/1pu68K9mbOt1_SSfT4VJrx5bKX4sEiIi1/view?usp=sharing)
+
+[Carpeta de datos](https://drive.google.com/drive/folders/1AEtdn6K4E9C7np3lqAXs2JNb_TVzxGm1?usp=sharing)
+
+
+
+
